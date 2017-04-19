@@ -2,6 +2,9 @@
 layout: archive
 permalink: /
 title:
+image:
+  feature: banner-secondary4.jpg 
+
 ---
 
 <div class="post-entry">
