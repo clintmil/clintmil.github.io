@@ -4,3 +4,15 @@
   url: /research/
   excerpt: This is what we are interested in working on..
   image:
+
+- title: People
+  url: /people/
+  excerpt: 
+  image:
+  
+- title: Publications
+  url: /publications/
+  excerpt:
+  image:
+  
+  
