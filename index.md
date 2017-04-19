@@ -2,8 +2,10 @@
 layout: archive
 permalink: /
 title:
+subtitle: We integrate human genetics and multi-omics datasets from large cohorts and primary tissues to unravel causal mechanisms and identify new targets for cardiovascular diseases. Ultimately these targets are subjected to rigorous and disease-relevant functional screens employing both genetic and pharmacological/biological perturbations.
 image:
-  feature: banner-secondary4.jpg 
+  feature: banner-secondary4.jpg
+  feature: banner-secondary5.jpg
 
 ---
 
