@@ -2,12 +2,30 @@
 layout: archive
 permalink: /
 title:
-subtitle: We integrate human genetics and multi-omics datasets from large cohorts and primary tissues to unravel causal mechanisms and identify new targets for cardiovascular diseases. Ultimately these targets are subjected to rigorous and disease-relevant functional screens employing both genetic and pharmacological/biological perturbations.
-image:
-  feature: banner-secondary4.jpg
-  feature: banner-secondary5.jpg
 
 ---
+<style>
+.parallax {
+
+image:
+  background-image: url(/images/banner-secondary4.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+<div style="text-align:center;">
+We integrate human genetics and multi-omics datasets from large cohorts and primary tissues to unravel causal mechanisms and identify new targets for cardiovascular diseases. Ultimately these targets are subjected to rigorous and disease-relevant functional screens employing both genetic and pharmacological/biological perturbations.
+</div>
+
+<!-- Container element -->
+<div class="parallax"></div>
+
+
+
 
 <div class="post-entry">
         <h1 class="post-subtitle">About us</h1>
