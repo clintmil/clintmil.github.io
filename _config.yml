@@ -3,7 +3,7 @@
 title: "Miller Lab"
 description: "Functional genomics of cardiovascular diseases"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: clintmil.github.io/images/banner-secondary5.jpg
+teaser: /images/banner-secondary5.jpg
 locale: en
 url: clintmil.github.io
 feed:
@@ -28,7 +28,7 @@ gems:
 owner:
   name: Miller Lab
   email:
-  twitter:
+  twitter: clintomics
   google:
     ad-client:
     ad-slot:
