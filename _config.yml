@@ -3,7 +3,7 @@
 title: "Miller Lab"
 description: "Functional genomics of cardiovascular diseases"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: banner-secondary4.jpg
+teaser: /images/banner-secondary4.jpg
 locale: en
 url: clintmil.github.io
 feed:
