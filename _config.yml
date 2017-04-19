@@ -8,8 +8,7 @@ locale: en
 url: clintmil.github.io
 feed:
   path: atom.xml
-image:
-  feature: banner-secondary4.jpg 
+
 
 # Jekyll configuration
 
