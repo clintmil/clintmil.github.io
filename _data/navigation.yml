@@ -1,18 +1,33 @@
 # Site navigation links
 
+- title: About 
+  url: /about/
+  except: We are a functional genomics lab at UVA. 
+  image: 
+
 - title: Research
   url: /research/
-  excerpt: This is what we are interested in working on..
-  image:
+  excerpt: These are the projects we are currently working on.
+  image: 
 
 - title: People
   url: /people/
-  excerpt: 
+  excerpt: Meet our team.
   image:
   
 - title: Publications
   url: /publications/
-  excerpt:
+  excerpt: Check out our previous work.  
+  image:
+
+- title: Careers
+  url: /careers/
+  excerpt: Come join us!
+  image: 
+  
+- title: Contact Us
+  url: /contactus/
+  exerpt: 
   image:
   
   
