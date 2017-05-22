@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title:
-img: "/images/images/banner-secondary4.jpg"
+img: "/images/banner-secondary4.jpg"
 
 ---
 
