@@ -6,14 +6,6 @@ img: "/images/banner-secondary4.jpg"
 
 ---
 
-image:
-  background-image: url("/images/banner-secondary4.jpg");
-  height: 500px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
 <div style="text-align:center;">
 We integrate human genetics and multi-omics datasets from large cohorts and primary tissues to unravel causal mechanisms and identify new targets for cardiovascular diseases. Ultimately these targets are subjected to rigorous and disease-relevant functional screens employing both genetic and pharmacological/biological perturbations.
 
