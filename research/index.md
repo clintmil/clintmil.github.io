@@ -1,7 +1,13 @@
 ---
-layout: article
-title:   
-permalink: /research/
+layout: archive
+title: "Research Projects"
+date:
+modified:
+excerpt: "Some of projects we are currently working on.."
+tags: []
+image:
+  feature:
+  teaser:
 ---
 
 ### Research Projects
