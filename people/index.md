@@ -5,21 +5,10 @@ layout: default
 
 #### People
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-img {
-    border-radius: 50%;
+.create
+{
+background-image: url('/images/clintphoto.jpg');
+background-repeat: no-repeat;
+padding-left: 30px;  /* width of the image plus a little extra padding */
+display: block;  /* may not need this, but I've found I do */
 }
-</style>
-</head>
-<body>
-
-<h2>Rounded Images</h2>
-<p>Use the border-radius property to create circled images:</p>
-
-<img src="/images/clintphoto.jpg" alt="Clint" width="400" height="300">
-
-</body>
-</html>
