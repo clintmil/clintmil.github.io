@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Research  
+title:   
 permalink: /research/
 ---
 
