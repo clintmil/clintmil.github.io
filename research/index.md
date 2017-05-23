@@ -6,7 +6,7 @@ modified:
 excerpt: 
 tags: []
 image:
-  feature: banner-secondary4.jpg
+  feature: banner-secondary5.jpg
   teaser:
 ---
 
