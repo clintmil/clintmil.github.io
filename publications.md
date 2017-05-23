@@ -1,7 +1,8 @@
 
+---
 title: Publications 
-permalink: /publications/
---
+Permalink: /publications/
+---
 
 <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
 
