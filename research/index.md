@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Research Projects"
+title: 
 date:
 modified:
-excerpt: "Some of projects we are currently working on.."
+excerpt: 
 tags: []
 image:
-  feature:
+  feature: banner-secondary4.jpg
   teaser:
 ---
 
