@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Skinny Bones"
-description: "A lightweight site starter for Jekyll"
+title: "Miller Lab"
+description: "Functional Genomics of Cardiovascular Diseases"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://mmistakes.github.io/skinny-bones-jekyll"
+url: "https://clintmil.github.io/skinny-jekyll"
 feed:
   path: atom.xml
 
