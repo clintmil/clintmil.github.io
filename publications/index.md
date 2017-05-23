@@ -4,8 +4,6 @@ title: publications
 permalink: /publications/
 ---
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
-
 #### Selected Publications 
 Miller CL† and Leeper NJ. [GWAS candidate gene to dual modifier of non-alcoholic fatty liver disease and atherosclerosis.][1] Journal of the American College of Cardiology: Basic to Translational Science. 2016.(† corresponding author)   
 
