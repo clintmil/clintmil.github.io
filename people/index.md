@@ -5,4 +5,4 @@ layout: article
 
 #### People
 
-<img class="img-circle" src="clintphoto.jpg">
+<img class="img-circle" img="clintphoto.jpg">
