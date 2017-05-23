@@ -264,6 +264,10 @@
 		}
 	}
 }
+// make rounded shape of photos
+.img-circle {
+    border-radius: 50%;
+}
 // page header
 .page-feature {
 	@include fill-parent;
