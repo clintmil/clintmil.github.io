@@ -3,7 +3,7 @@ title:
 layout: default
 ---
 
-<img align ="left" src="https://clintmil.github.io/skinny-jekyll/images/clintphoto.jpg" width="200" height="200"/>
+<img align ="left" src="https://clintmil.github.io/skinny-jekyll/images/clintphoto.jpg" width="250" height="250"/>
 
 <p style="margin-left: 80px">Clint L. Miller - Principal Investigator</p>
 <p style="margin-left: 80px">- Postdoc, Human Genetics, Stanford University</p> 
