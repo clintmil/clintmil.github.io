@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research  
+permalink: /research/
+---
+
 ### Research Projects
 
 **1. Map genetic variation and mechanisms associated with coronary artery disease (CAD).**
