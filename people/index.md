@@ -1,6 +1,6 @@
 ---
 title: 
-layout: media
+layout: default
 ---
 
-<img src="/images/clintphoto.jpg" width="200" height="200"/>
+<img src="https://clintmil.github.io/skinny-jekyll/images/clintphoto.jpg" width="200" height="200"/>
