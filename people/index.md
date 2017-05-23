@@ -5,4 +5,4 @@ layout: default
 
 #### People
 
-<img align="left" src="images/clintphoto.jpg"> some text here
+<img align="left" src="/images/clintphoto.jpg"> some text here
