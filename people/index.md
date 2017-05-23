@@ -9,56 +9,17 @@ layout: default
 <html>
 <head>
 <style>
-.container {
-    position: relative;
-    width: 50%;
-}
-
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
-}
-
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
+img {
+    border-radius: 50%;
 }
 </style>
 </head>
 <body>
 
-<h2>Fade in a Box</h2>
+<h2>Rounded Images</h2>
+<p>Use the border-radius property to create circled images:</p>
 
-<div class="container">
-  <img src="clintphoto.jpg" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">Clint</div>
-  </div>
-</div>
-  
+<img src="/images/clintphoto.jpg" alt="Clint" width="400" height="300">
+
 </body>
 </html>
