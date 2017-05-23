@@ -5,4 +5,4 @@ layout: default
 
 #### People
 
-<img src="clintphoto.jpg" alt="Clint Photo" style="width: 200px;"/>
+<img src="/images/clintphoto.jpg" alt="Clint Photo" style="width: 200px;"/>
