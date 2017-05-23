@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title:
-img: "/images/banner-secondary4.jpg"
+image:
+  feature: /images/banner-secondary4.jpg
 
 ---
 
