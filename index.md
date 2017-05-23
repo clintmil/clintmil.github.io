@@ -8,18 +8,13 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">About us</h2>
+  <p class="post-excerpt">Our lab focuses on integrating large-scale human genetics and multi-omics datasets to better understand causal disease mechanisms and identify new targets or risk factors for cardiovascular diseases. We employ an array of bioinformatics approaches and functional screens using both genetic and drug perturbations to manipulate candidate loci.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+        <h2 class="post-subtitle">News</h2>
+<a class="twitter-timeline" href="https://twitter.com/clintomics" data-widget-id="338870296415174656">Tweets by @clintomics</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div><!-- /.tile -->
 
 <div class="tile">
