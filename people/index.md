@@ -5,10 +5,59 @@ layout: default
 
 #### People
 
-.create
-{
-background-image: url('/clintphoto.jpg');
-background-repeat: no-repeat;
-padding-left: 30px;  /* width of the image plus a little extra padding */
-display: block;  /* may not need this, but I've found I do */
+<html>
+<head>
+<style>
+.container {
+    position: relative;
+    width: 50%;
 }
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+
+<h2>Fade in a Box</h2>
+
+<div class="container">
+  <img src="/images/clintphoto.jpg" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">Clint</div>
+  </div>
+</div>
+  
+</body>
+</html>
