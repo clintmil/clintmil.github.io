@@ -2,11 +2,6 @@
 title: 
 layout: default
 ---
-<style type="text/css">
-<!--
-.tab { margin-left: 40px; }
--->
-</style>
 
 <img align ="left" src="https://clintmil.github.io/skinny-jekyll/images/clintphoto.jpg" width="200" height="200"/>
 
