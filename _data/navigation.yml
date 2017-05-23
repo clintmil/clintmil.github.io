@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: About 
-  url: /index/
+  url: /clintmil.github.io/index/
   except: We are a functional genomics lab at UVA. 
   image: 
 
 - title: Research
-  url: /research/
+  url: /clintmil.github.io/research/
   excerpt: These are the projects we are currently working on.
   image: 
 
