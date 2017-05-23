@@ -18,8 +18,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Available Positions</h2>
+  <p class="post-excerpt">We have openings for both a <a href="http://clintmil.github.io/careers">Computational Biologist </a> and a <a href="http://clintmil.github.io/careers">Molecular Biologist </a> postdoctoral fellow. Apply now to join our team.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
