@@ -1,19 +1,19 @@
 # Footer navigation links
 
-- title: About
+- title: about
   url: clintmil.github.io/index/
 
-- title: Research
+- title: research
   url: /research/
 
-- title: People
+- title: people
   url: /people/
 
-- title: Publications 
+- title: publications 
   url: /publications/
 
-- title: Careers
+- title: careers
   url: /careers/
   
-- title: Contact us
+- title: contact us
   url: /contactus/
