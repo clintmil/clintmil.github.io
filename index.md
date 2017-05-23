@@ -5,8 +5,6 @@ image:
   feature: banner-secondary4.jpg
 ---
 
-<div class="tiles">
-
 <div class="tile">
   <h2 class="post-title">About us</h2>
   <p class="post-excerpt">Our lab focuses on integrating large-scale human genetics and multi-omics datasets to better understand causal disease mechanisms and identify new targets or risk factors for cardiovascular diseases. We employ an array of bioinformatics approaches and functional screens using both genetic and drug perturbations to manipulate candidate loci.</p>
@@ -21,5 +19,3 @@ image:
   <h2 class="post-title">Extensible</h2>
   <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 </div><!-- /.tile -->
-
-</div><!-- /.tiles -->
