@@ -7,7 +7,7 @@ image:
   teaser:
 ---
 
-### Research Projects
+#### Research Projects
 
  <span style="color:#B8860B"> **1. Map genetic variation and mechanisms associated with coronary artery disease (CAD).** </span>
 
