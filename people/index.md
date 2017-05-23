@@ -10,7 +10,7 @@ layout: default
 .img-circular{
  width: 200px;
  height: 200px;
- background-image: "/images/clintphoto.jpg";
+ background-image: ("/images/clintphoto.jpg");
  background-size: cover;
  display: block;
 }
