@@ -5,7 +5,7 @@ description: "Functional genomics of cardiovascular diseases"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: /images/banner-secondary5.jpg
 locale: en
-url: http://clintmil.github.io
+url: clintmil.github.io
 feed:
   path: atom.xml
 
