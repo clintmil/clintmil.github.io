@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title:
 image:
-  feature: /images/banner-secondary4.jpg
+  feature: banner-secondary4.jpg
 
 ---
 
