@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pages
 title: 
 date:
 modified:
