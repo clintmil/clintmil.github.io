@@ -5,19 +5,12 @@ layout: default
 
 #### People
 
-<div class="img-circular"></div>
+<div style = 'background-image: url(/images/clintphoto.jpg)'></div>
 
-.img-circular{
- width: 200px;
- height: 200px;
- background-image: ("clintphoto.jpg");
- background-size: cover;
- display: block;
-}
-border-radius: 100px;
- -webkit-border-radius: 100px;
- -moz-border-radius: 100px;
-border-bottom-right-radius: 100px;
- -webkit-border-bottom-right-radius: 100px;
- -moz-border-bottom-right-radius: 100px;
+div {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 }
