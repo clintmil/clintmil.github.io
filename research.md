@@ -1,7 +1,7 @@
 ---
 layout: article
 title:   
-permalink: /research.md/
+permalink: /research.md
 ---
 
 ### Research Projects
