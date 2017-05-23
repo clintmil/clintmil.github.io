@@ -1,6 +1,6 @@
 ---
-layout: default
-title: research  
+layout: archive
+title: Research  
 permalink: /research/
 ---
 
