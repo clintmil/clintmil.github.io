@@ -1,21 +1,31 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
+- title: About 
+  url: clintmil.github.io/index/
+  except: We are a functional genomics lab at UVA. 
+  image: 
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+- title: Research
+  url: /research/
+  excerpt: These are the projects we are currently working on.
+  image: 
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+- title: People
+  url: /people/
+  excerpt: Meet our team.
+  image:
+  
+- title: Publications
+  url: /publications/
+  excerpt: Check out our previous work.  
+  image:
 
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+- title: Careers
+  url: /careers/
+  excerpt: Come join us!
+  image: 
+  
+- title: Contact us
+  url: /contactus/
+  exerpt: 
+  image:
