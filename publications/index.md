@@ -6,7 +6,7 @@ permalink: /publications/
 
 #### Selected Publications 
 
-[TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells.][26] PLOS Genetics. 2017 May 8;13(5):e1006750.
+Kim JB, Pjanic M, Nguyen T, Miller CL, Iyer D, Liu B, Wang T, Sazonova O, Carcamo-Orive I, Matic LP, Maegdefessel L, Hedin U, Quertermous T.[TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells.][26] PLOS Genetics. 2017 May 8;13(5):e1006750.
 
 Miller CL† and Leeper NJ. [GWAS candidate gene to dual modifier of non-alcoholic fatty liver disease and atherosclerosis.][1] Journal of the American College of Cardiology: Basic to Translational Science. 2016.(† corresponding author)   
 
@@ -18,7 +18,7 @@ Kojima Y‡, Volkmer JP, McKenna K, Civelek M, Lusis AJ, Miller CL, DiRenzo D, N
 
 Miller CL†, Pjanic M, Wang T, Nguyen T, Cohain A, Lee JD, Perisic L, Hedin U, Kundu RK, Majmudar D, Kim JB, Wang O, Betsholtz C, Ruusalepp A, Franzen O, Assimes TL, Montgomery SB, Schadt EE, Björkegren J, Quertermous T. [Integrative functional genomics identifies regulatory mechanisms at coronary heart disease loci.][6] Nature Communications. 2016 Jul 8;7:12092. († corresponding author)  
 
-Miller CL, Pjanic M, Quertermous T. [From locus association to mechanism of gene causality: the devil is in the details.][9] Arteriosclerosis, Thrombosis and Vascular Biology. 2015 Oct;35(10):2079-80.
+Miller CL, Pjanic M#, Quertermous T. [From locus association to mechanism of gene causality: the devil is in the details.][9] Arteriosclerosis, Thrombosis and Vascular Biology. 2015 Oct;35(10):2079-80.
 
 Nürnberg ST, Cheng K, Raiesdana A, Kundu RK, Miller CL, Arora K, Carcamo-Oribe I, Xiong Y, Kim JB, Tellakula N, Murthy N, Bolsvert WA, Owens GK, Tallquist MD, Quertermous T. [TCF21 regulates smooth muscle cell precursor cells that contribute to the fibrous cap.][10] PLOS Genetics. 2015 May 28;11(5):e1005155.
 
