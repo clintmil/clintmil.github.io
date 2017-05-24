@@ -2,6 +2,6 @@
 title:
 layout: default
 image:
-  feature: /images/Medical_Center_Night_WP2.jpg
+  feature: https://clintmil.github.io/skinny-jekyll/images/Medical_Center_Night_WP2.jpg
 ---
 
