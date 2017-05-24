@@ -3,8 +3,6 @@ title:
 layout: default
 ---
 
-<img src="http://clintmil.github.io/millerlab/images/Medical_Center_Night_WP2.jpg" alt="MedCenter" >
-
 #### Contact Us
 
 The lab is located in the Center for Public Health Genomics at the University of Virginia School of Medicine.
