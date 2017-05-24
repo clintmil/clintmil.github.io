@@ -1,9 +1,9 @@
 ---
 title:
 layout: default
-image: 
-  feature: "/images/Medical_Center_Night_WP2.jpg"
 ---
+
+<img src="http://clintmil.github.io/millerlab/images/Medical_Center_Night_WP2.jpg" alt="MedCenter" >
 
 #### Contact Us
 
