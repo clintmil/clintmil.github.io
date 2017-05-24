@@ -27,7 +27,7 @@ Please send an email with attached CV, statement of research interests and conta
 
 
 
-#### Postdoctoral Fellow – Computational Genomics
+**Postdoctoral Fellow – Computational Genomics**
 
 We are seeking a highly motivated and talented postdoctoral fellow with a background in bioinformatics or computer science to investigate the genetic basis of coronary artery disease (and other related diseases). This project will focus on the integration of large-scale human genetic and multi-omic datasets (e.g. bulk and single-cell RNA-seq, ATAC-seq) from normal and diseased environments. Ultimately the goals of this work are: 1) to elucidate novel disease associated loci and regulatory profiles, 2) to map context-specific gene-gene and gene-environment interactions, 3) to construct and test causal regulatory networks. The candidate will also be expected to work with collaborators to assist in building bioinformatics software and infrastructure around these genomic datasets.
 
@@ -54,7 +54,7 @@ Please send an email with attached CV, statement of research interests and conta
 
 
 
-#### Staff Scientist or Research Associate in Cardiovascular Functional Genomics  
+**Staff Scientist or Research Associate in Cardiovascular Functional Genomics**  
 
 We are seeking a highly motivated staff scientist or research associate with a strong background in genetics, molecular biology, cell biology, developmental biology, engineering or similar fields to investigate the genetic basis of coronary artery disease. Our group investigates the causal mechanisms of loci associated with CAD and related cardiovascular diseases, with a focus on understanding the regulation and targeting of mural cell signaling pathways. These efforts are expected to reveal the ‘hidden risk’ for complex diseases for more precise prediction and early stage prevention. 
 
