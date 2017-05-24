@@ -24,8 +24,7 @@ The Miller Lab of Cardiovascular Functional Genomics is located in the Center fo
 
 Please send an email with attached CV, statement of research interests and contact information for three references to Dr. Clint L. Miller - <clmillerlab@gmail.com>.
 
-
-
+__________
 
 **Postdoctoral Fellow – Computational Genomics**
 
@@ -52,7 +51,7 @@ The Miller Lab of Cardiovascular Functional Genomics is located in the Center fo
 
 Please send an email with attached CV, statement of research interests and contact information for three references to Dr. Clint L. Miller - <clmillerlab@gmail.com>. 
 
-
+_________
 
 **Staff Scientist or Research Associate in Cardiovascular Functional Genomics**  
 
