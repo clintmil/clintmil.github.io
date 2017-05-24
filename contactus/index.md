@@ -3,7 +3,7 @@ title:
 layout: default
 ---
 
-<img src = "https://clintmil.github.io/millerlab/images/uva-Aerial_Grounds_01HiRes_2.jpg">
+<img src = "https://clintmil.github.io/millerlab/images/uva-Aerial_Grounds_01HiRes_3.jpg">
 
 #### Contact Us
 
