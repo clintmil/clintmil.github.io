@@ -157,7 +157,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					@include font-size(16,yes,24);
 				}
 			}
 			// cleaner underlines for links
@@ -181,7 +181,7 @@
 			}
 			.page-meta {
 				p{
-					@include font-size(14,no);
+					@include font-size(12,no);
 					font-family: $alt-font;
 					color: lighten($black,60);
 				}
