@@ -3,7 +3,7 @@ title:
 layout: default
 ---
 
-![clint photo](/images/clintphoto.jpg){:class="img-responsive"}
+![clint photo](/images/clintphoto.jpg)
 
 Clint L. Miller - Principal Investigator
 * Postdoc, Human Genetics, Stanford University 
