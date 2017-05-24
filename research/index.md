@@ -7,6 +7,8 @@ image:
   teaser:
 ---
 
+<img src = "https://clintmil.github.io/millerlab/images/biogpshuman.png" height="200" width="250" >
+
 #### Research Projects
 
  <span style="color:#B8860B"> 1. Map genetic variation and mechanisms associated with coronary artery disease (CAD). </span>
