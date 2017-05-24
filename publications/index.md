@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 #### Selected Publications 
+
+[TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells.][26] PLOS Genetics. 2017 May 8;13(5):e1006750.
+
 Miller CL† and Leeper NJ. [GWAS candidate gene to dual modifier of non-alcoholic fatty liver disease and atherosclerosis.][1] Journal of the American College of Cardiology: Basic to Translational Science. 2016.(† corresponding author)   
 
 Pjanic M, Miller CL, Wirka R, Kim BK, DiRenzo D, Quertermous T. [Genetics and genomics of coronary artery disease.][3] Current Cardiology Reports. 2016. Oct;18(10):102.
@@ -59,6 +62,7 @@ Yan C, Miller CL, Abe J. [Regulation of phosphodiesterase 3 and inducible cAMP e
 [20]: http://link.springer.com/article/10.1007%2Fs12265-010-9203-9
 [21]: http://circres.ahajournals.org/content/105/10/956.long
 [22]: http://circres.ahajournals.org/content/100/4/489.long
+[26]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006750
 
 
 #### Additional Publications
