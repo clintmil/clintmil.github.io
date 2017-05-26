@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Available Positions</h2>
-  <p class="post-excerpt">We have openings for both <a href="http://clintmil.github.io/careers">Computational Biology </a> and <a href="http://clintmil.github.io/careers">Molecular Biology/Genomics </a> postdoctoral fellows. Apply now to join our team.</p>
+  <p class="post-excerpt">We have openings for postdoctoral fellows in <a href="http://clintmil.github.io/careers">Computational Biology </a> and <a href="http://clintmil.github.io/careers"> Molecular Biology/Genomics </a> as well as a <a href="http://clintmil.github.io/careers">senior scientist/research associate</a>. Apply now to join our team!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
