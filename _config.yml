@@ -2,7 +2,7 @@
 
 title: "Miller Lab"
 description: "Functional Genomics of Cardiovascular Diseases"
-logo: https://clintmil.github.io/millerlab/images/clint_logo.svg
+logo: /images/clint_logo.eps
 teaser: 400x250.gif
 locale: en_US
 url: "https://clintmil.github.io/millerlab"
