@@ -3,7 +3,7 @@ title:
 layout: default
 ---
 
-<img align ="left" src="http://clintmil.github.io/millerlab/images/clintphoto.jpg" alt="Clint" width="200" height="200" vspace="50">
+<img align ="left" src="http://clintmil.github.io/millerlab/images/clintphoto.jpg" alt="Clint" width="200" height="200" style="margin:50px">
 
 Clint L. Miller - Principal Investigator
 
