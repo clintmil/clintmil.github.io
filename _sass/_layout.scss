@@ -127,7 +127,8 @@
    ========================================================================== */
 
 #page-wrapper {
-	@include size(100% 100%);
+	padding: 0 $gutter; // add white space for smaller screens
+  @include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
 	@include transform(translate(0,0));
@@ -236,13 +237,12 @@
 		background-size: cover;
 	}
 }
-.page-lead-content {
-	padding: 1em;
+.page-lead-content { 
 	@include media($medium) {
-		padding: 2em;
+		padding: 1em;
 	}
 	@include media($large) {
-		padding: 3em;
+		padding: 1em;
 	}
 	h1 {
 		@include font-size(48);
