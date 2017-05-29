@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">About us</h2>
-  <p class="post-excerpt">Our lab focuses on integrating large-scale human genetics and functional genomics datasets to 1) better understand fundamental vascular biology and disease mechanisms and 2) to identify new targets or risk factors for cardiovascular diseases. We employ an array of bioinformatics approaches and functional screens using both genetic and drug perturbations to investigate candidate loci.</p>
+  <p class="post-excerpt">Our lab focuses on integrating large-scale human genetics and genomics datasets to: 1) better understand fundamental vascular biology and disease mechanisms and 2) to identify new targets or risk factors for cardiovascular diseases. We employ an array of bioinformatics approaches and functional screens using both genetic and drug perturbations to investigate candidate loci.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
