@@ -1,19 +1,21 @@
 # Footer navigation links
 
-- title: about
-  url: clintmil.github.io/index/
+- title: About
+  url: /
 
-- title: research
+- title: Research
   url: /research/
 
-- title: people
+- title: People
   url: /people/
 
-- title: publications 
+- title: Publications 
   url: /publications/
 
-- title: careers
+- title: Careers
   url: /careers/
   
-- title: contact us
+- title: Contact Us
   url: /contactus/
+  
+- img: /images/University_Of_Virginia_Logo_08.png
