@@ -1,33 +1,32 @@
 # Site navigation links
 
 - title: About 
-  url: clintmil.github.io/index/
+  url: /
   except: We are a functional genomics lab at UVA. 
-  image: 
+  image: banner-secondary4.jpg
 
 - title: Research
   url: /research/
-  excerpt: These are the projects we are currently working on.
-  image: /images/biogpshuman.png
+  excerpt: Projects we are currently working on.
+  image: biogpshuman_small.png  
 
 - title: People
   url: /people/
   excerpt: Meet our team.
-  image:
+  image: pexels-photo-42384.jpg
   
 - title: Publications
   url: /publications/
   excerpt: Check out our previous work.  
-  image: 
+  image: publications_small.jpg
 
 - title: Careers
   url: /careers/
   excerpt: Come join us!
-  image: 
+  image: blueridgepic.jpg
   
 - title: Contact us
   url: /contactus/
   exerpt: 
-  image:
-  
-  
+  image: University-of-Virginia-Rotunda.jpg
+
