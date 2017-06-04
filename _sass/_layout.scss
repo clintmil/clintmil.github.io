@@ -29,7 +29,7 @@
 	color: $black;
 	font-family: $alt-font;
 	font-weight: 700;
-	@include font-size(26,no);
+	@include font-size(30,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 }
@@ -128,7 +128,7 @@
 
 #page-wrapper {
 	padding: 0 $gutter; // add white space for smaller screens
-	@include size(100% 100%);
+  @include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
 	@include transform(translate(0,0));
@@ -157,7 +157,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					@include font-size(16,yes,24);
 				}
 			}
 			// cleaner underlines for links
@@ -181,7 +181,7 @@
 			}
 			.page-meta {
 				p{
-					@include font-size(14,no);
+					@include font-size(12,no);
 					font-family: $alt-font;
 					color: lighten($black,60);
 				}
@@ -237,9 +237,9 @@
 		background-size: cover;
 	}
 }
-.page-lead-content {
+.page-lead-content { 
 	padding: 1em;
-	@include media($medium) {
+  @include media($medium) {
 		padding: 2em;
 	}
 	@include media($large) {
@@ -263,6 +263,10 @@
 			@include font-size(32);
 		}
 	}
+}
+// make rounded shape of photos
+.img-circle {
+    border-radius: 50%;
 }
 // page header
 .page-feature {
