@@ -18,6 +18,7 @@ Clint started his lab at the University of Virginia after serving on the faculty
 
 <img align ="left" src="http://clintmil.github.io/millerlab/images/vivekphoto.jpg" alt="Vivek" width="250" height="250" style="padding-right:50px">
 
+
 Vivek Nanda - Postdoctoral Fellow
 
 - PhD, Pharmacology, University of Rochester
