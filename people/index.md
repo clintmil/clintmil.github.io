@@ -16,7 +16,7 @@ Clint L. Miller - Principal Investigator
 
 Clint started his lab at the University of Virginia after serving on the faculty and completing postdoctoral training in human genetics (Quertermous lab) at Stanford University. There he investigated the causal genetic mechanisms of coronary artery disease loci identified from large-scale genome-wide association studies. He identified mechanisms for multiple genes mediating vessel wall injury responses in human coronary artery smooth muscle cells and mouse models. He is currently an Assistant Professor of Public Health Sciences and a resident member of the Center for Public Health Genomics. He is also a member of the Data Science Institute and the Robert M. Berne Cardiovascular Research Center and has secondary faculty appointments in the Departments of Biomedical Engineering and Biochemistry and Molecular Genetics.
 
-<br> </br>
+<br>
 
 <img align ="left" src="http://clintmil.github.io/millerlab/images/vivekphoto.jpg" alt="Vivek" width="250" height="250" style="padding-right:50px">
 
