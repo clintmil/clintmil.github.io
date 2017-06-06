@@ -79,7 +79,7 @@ Jeon KI, Jono H, Miller CL, Cai Y, Lim S, Gao P, Abe J, Li JD, Yan C. [Ca2+/calm
 
 Hahn K, Sirdofsky M, Brown A, Ebenezer G, Hauer P, Miller CL, Polydefkis M. [Collateral sprouting of human epidermal nerve fibers following intracutaneous axotomy.][25] Journal of the Peripheral Nervous System. 2006 Jun;11(2): 142-7. 
 
-See complete list of publicationson [Pubmed][26] or [Google Scholar][27].
+See complete list of publications on [Pubmed][26] or [Google Scholar][27].
 
 [2]: http://www.pnas.org/content/113/45/E7116.full
 [7]: http://www.onlinejacc.org/content/66/22/2522
