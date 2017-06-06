@@ -58,9 +58,9 @@ Miller CL‡, Oikawa M, Cai Y, Wojtovich AP, Nagel DJ, Xu X, Xu, H, Rybalkin SD,
 
 Yan C, Miller CL, Abe J. [Regulation of phosphodiesterase 3 and inducible cAMP early repressor in the heart.][22] Circulation Research. 2007 Mar 2;100(4): 489-501.
 
-\* authors contributed equally
-† corresponding author
-‡ manuscript received editorial
+\* authors contributed equally.
+† corresponding author.
+‡ manuscript received editorial.
 
 #### See complete list of publications on [Pubmed][27] or [Google Scholar][28].
 
