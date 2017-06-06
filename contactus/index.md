@@ -9,14 +9,14 @@ layout: default
 
 Our lab is located in the [Center for Public Health Genomics][1] at the [University of Virginia][2].
 
-**Mailing Address**
+**Mailing Address:**
 
 West Complex  
 3rd Floor, Medical School Building, Room 3283  
 1335 Lee Street  
 Charlottesville, VA 22903
 
-**Directions**
+**Directions:**
 
 UVA is located in the historic town of Charlottesville, Virginia in close proximity to the Blue Ridge Mountains. Reach us via [Charlottesville Albemarle Airport][3], [Charlottesville Amtrak station][4], or by car. Visitors should park in the 11th St Parking Garage (level C and above).
 
