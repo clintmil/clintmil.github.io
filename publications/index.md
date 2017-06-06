@@ -6,11 +6,11 @@ permalink: /publications/
 
 #### Selected Publications 
 
-2017
+ <span style="color:#B8860B">2017</span>
 
 Kim JB\*, Pjanic M\*, Nguyen T, Miller CL, Iyer D, Liu B, Wang T, Sazonova O, Carcamo-Orive I, Matic LP, Maegdefessel L, Hedin U, Quertermous T.[TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells.][26] PLOS Genetics. 2017 May 8;13(5):e1006750.
 
-2016
+<span style="color:#B8860B">2016</span>
 
 Miller CL† and Leeper NJ. [GWAS candidate gene to dual modifier of non-alcoholic fatty liver disease and atherosclerosis.][1] Journal of the American College of Cardiology: Basic to Translational Science. 2016.   
 
@@ -22,7 +22,7 @@ Kojima Y‡, Volkmer JP, McKenna K, Civelek M, Lusis AJ, Miller CL, DiRenzo D, N
 
 Miller CL\*†, Pjanic M\*, Wang T, Nguyen T, Cohain A, Lee JD, Perisic L, Hedin U, Kundu RK, Majmudar D, Kim JB, Wang O, Betsholtz C, Ruusalepp A, Franzen O, Assimes TL, Montgomery SB, Schadt EE, Björkegren J, Quertermous T. [Integrative functional genomics identifies regulatory mechanisms at coronary heart disease loci.][6] Nature Communications. 2016 Jul 8;7:12092. 
 
-2015
+<span style="color:#B8860B">2015</span>
 
 Miller CL\*, Pjanic M\*, Quertermous T. [From locus association to mechanism of gene causality: the devil is in the details.][9] Arteriosclerosis, Thrombosis and Vascular Biology. 2015 Oct;35(10):2079-80.
 
@@ -30,7 +30,7 @@ Nürnberg ST\*, Cheng K\*, Raiesdana A, Kundu RK, Miller CL, Arora K, Carcamo-Or
 
 Sazonova OV\*, Zhao Y\*, Nürnberg ST\*, Miller CL, Pjanic M, Kundaje AB, Bejerano G, Assimes TL, Yang X, Quertermous T. [Characterization of TCF21 downstream target regions identifies a transcriptional pathway linking multiple independent coronary heart disease loci.][11] PLOS Genetics. 2015 May 28;11(5):e1005202. 
 
-2014
+<span style="color:#B8860B">2014</span>
 
 Miller CL†, Haas U, Diaz R, Leeper NJ, Kundu RK, Patolla B, Assimes TL, Kaiser FJ, Ljubica P, Hedin U, Maegdefessel L, Schunkert H, Erdmann J, Quertermous T†, Sczakiel G†. [Coronary heart disease-associated variation in TCF21 disrupts a miR-224 binding site and miRNA-mediated regulation.][12] PLOS Genetics. 2014 Mar 27; 10(3):e1004263.
 
@@ -38,17 +38,17 @@ Miller CL, Assimes TL, Montgomery SB, Quertermous T. [Dissecting the causal gene
 
 Kojima Y, Downing KP, Kundu RK, Miller CL, Dewey F, Lancero H, Raaz U, Perisic L, Hedin U, Schadt EE, Maegdefessel L, Quertermous T, Leeper NJ. [CDKN2B regulates efferocytosis and atherosclerosis.][14] Journal of Clinical Investigation. 2014 Mar 3;124(3):1083-97. 
 
-2013
+<span style="color:#B8860B">2013</span>
 
 Miller CL†, Anderson DR, Kundu RK, Raiesdana A, Nürnberg ST, Diaz R, Cheng K, Leeper NJ, Chen CH, Chang IS, Schadt EE, Hsiung CA, Assimes TL, Quertermous T†. [Disease-related growth factor and embryonic signaling pathways modulate an enhancer of TCF21 expression at the 6q23.2 coronary heart disease locus.][15] PLOS Genetics. 2013 Jul;9(7):e1003652.
 
 Leeper NJ, Raiesdana A, Kojima Y, Kundu RK, Cheng H, Maegdefessel L, Toh R, Ahn GO, Ali ZA, Anderson DR, Miller CL, Roberts SC, Spin JM, de Almeida PE, Wu JC, Xu B, Cheng K, Quertermous M, Kundu S, Kortekaas KE, Berzin E, Downing KP, Dalman RL, Tsao PS, Schadt EE, Owens GK, Quertermous T. [Loss of CDKN2B promotes p53-dependent smooth muscle cell apoptosis and aneurysm formation.][16] Arteriosclerosis, Thrombosis and Vascular Biology. 2013 Jan;33(1):e1-e10. 
 
-2011
+<span style="color:#B8860B">2011</span>
 
 Miller CL, Oikawa M, Cai Y, Thomas T, Dostmann W, Zaccolo M, Fujiwara K, Yan C. [Cyclic nucleotide phosphodiesterase 1: a key regulator of cardiac fibroblast activation and extracellular matrix remodeling in the heart.][17] Basic Research in Cardiology. 2011 Nov;106(6): 1023-39.  
 
-2010 and prior
+<span style="color:#B8860B">2010 and prior</span>
 
 Cai Y, Miller CL, Nagel DJ, Jeon KI, Lim S, Gao P, Knight PA, Yan C. [Cyclic nucleotide phosphodiesterase 1 regulates lysosome-dependent type I collagen protein degradation in vascular smooth muscle cells.][18] Arteriosclerosis, Thrombosis and Vascular Biology. 2010 Dec 9;31(3): 616-23. 
 
