@@ -14,4 +14,4 @@ Charlottesville, VA 22903
 
 Email: clmillerlab [at] gmail [dot] com
 
-<img src = "https://clintmil.github.io/millerlab/images/factsfigures1.jpg">
+<img src = "https://clintmil.github.io/millerlab/images/factsfigures2.jpg">
