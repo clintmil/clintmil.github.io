@@ -4,9 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
-
 #### Selected Publications 
+
 Miller CL† and Leeper NJ. [GWAS candidate gene to dual modifier of non-alcoholic fatty liver disease and atherosclerosis.][1] Journal of the American College of Cardiology: Basic to Translational Science. 2016.(† corresponding author)   
 
 Pjanic M, Miller CL, Wirka R, Kim BK, DiRenzo D, Quertermous T. [Genetics and genomics of coronary artery disease.][3] Current Cardiology Reports. 2016. Oct;18(10):102.
@@ -62,31 +61,7 @@ Yan C, Miller CL, Abe J. [Regulation of phosphodiesterase 3 and inducible cAMP e
 [21]: http://circres.ahajournals.org/content/105/10/956.long
 [22]: http://circres.ahajournals.org/content/100/4/489.long
 
+#### See complete list of publications on [Pubmed][26] or [Google Scholar][27].
 
-#### Additional Publications
-
-Knight W, Chen S, Zhang Y, Oikawa M, Wu M, Zhou Q, Miller CL, Cai Y, Mickelsen D, Moravec C, Small EM, Abe JI, Yan C. [PDE1C deficiency antagonizes pathological cardiac remodeling and dysfunction.][2] Proceedings of the National Academy of Sciences USA. 2016 Oct 20. pii: 201607728. 
-
-Pjanic M, Miller CL, Quertermous T. [Transcription factor regulation as a mechanism of confounding effects between distinct human traits.][23] F1000Research. 2015 4:1349. 
-
-Perez MV‡, Pavlovic A, Shang C, Wheeler MT, Miller CL, Liu J, Dewey FE, Pan S, Thanaporn P, Absher D, Brandimarto J, Salisbury H, Chan K, Mukherjee R, Konadhone R, Myers RM, Sedehi D Scammell T, Quertermous T, Cappola T, Ashley EA. [Systems genomics identifies a key role for hypocretin/orexin receptor 2 in human heart failure.][7] Journal of the American College of Cardiology. 2015;66(22):2522-2533. (‡ manuscript received editorial)
-
-Dewey FE, Grove ME, Priest JR, Waggott D, Batra P, Miller CL, Wheeler MT, Zia A, Pan C, Karzcewski KJ, Miyake C, Whirl-Carrillo M, Klein T, Datta S, Altman R, Snyder M, Quertermous T, Ashley EA. [Sequence to medical phenotypes: a framework for identifying clinical phenotypes in whole genome DNA sequence data.][8] PLOS Genetics. 2015 Oct 8;11(10):e1005496. 
-
-Oikawa M, Wu M, Lim S, Knight W, Miller CL, Cai Y, Yan Lu Y, Blaxall BC, Takeishi Y, Abe JI, Yan C. [Cyclic nucleotide phosphodiesterase 3A1 protects the heart against ischemia-reperfusion injury.][24] Journal of Molecular and Cellular Cardiology. 2013 Aug 27;64C:11-19.
-
-Jeon KI, Jono H, Miller CL, Cai Y, Lim S, Gao P, Abe J, Li JD, Yan C. [Ca2+/calmodulin-stimulated PDE1A regulates beta-catenin/TCF signaling through PP2A B56 in synthetic VSMCs.][19] FEBS Journal. 2010 Dec;277(24): 5026-39. 
-
-Hahn K, Sirdofsky M, Brown A, Ebenezer G, Hauer P, Miller CL, Polydefkis M. [Collateral sprouting of human epidermal nerve fibers following intracutaneous axotomy.][25] Journal of the Peripheral Nervous System. 2006 Jun;11(2): 142-7. 
-
-See complete list of publications on [Pubmed][26] or [Google Scholar][27].
-
-[2]: http://www.pnas.org/content/113/45/E7116.full
-[7]: http://www.onlinejacc.org/content/66/22/2522
-[8]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005496
-[19]: http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1742-4658.2010.07908.x/abstract
-[23]: https://f1000research.com/articles/4-1349/v1
-[24]: http://www.sciencedirect.com/science/article/pii/S0022282813002563
-[25]: http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1085-9489.2006.00079.x/abstract
 [26]: https://www.ncbi.nlm.nih.gov/pubmed/?term=Clint+Miller+NOT+Miller+CT
 [27]: https://scholar.google.com/citations?user=hkc4nPAAAAAJ&hl=en
