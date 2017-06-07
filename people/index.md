@@ -36,4 +36,7 @@ Vivek Nanda - Postdoctoral Fellow
 - BS, Bioinformatics, Rochester Institute of Technology
 </div><!-- /.tile -->
 
+</div><!-- /.tiles -->
+<br>
+
 
