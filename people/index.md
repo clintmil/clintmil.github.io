@@ -5,7 +5,7 @@ layout: default
 
 #### Group Members
 
-<div class="tiles">
+<div class="tiles2">
 
 <div class="tile">
 
@@ -36,7 +36,7 @@ Vivek Nanda - Postdoctoral Fellow
 - BS, Bioinformatics, Rochester Institute of Technology
 </div><!-- /.tile -->
 
-</div><!-- /.tiles -->
+</div><!-- /.tiles2 -->
 <br>
 
 
