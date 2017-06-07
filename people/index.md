@@ -5,8 +5,6 @@ layout: default
 
 #### Group Members
 
-![clintphoto](/images/clintphoto.jpg){:class="img-responsive"} 
-![clintphoto](/images/clintphoto.jpg){:height="50%" width="50%"}
 ![clintphoto](/images/clintphoto.jpg){:height="250px" width="250px"}
 
 Clint L. Miller - Principal Investigator
