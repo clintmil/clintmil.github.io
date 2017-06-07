@@ -14,12 +14,14 @@ layout: default
 </div><!-- /.tile2 -->
 
 <div class="tile2">
+<p class="post-excerpt"> 
 Clint L. Miller - Principal Investigator
 
 - Postdoc, Human Genetics, Stanford University 
 - PhD, Pharmacology, University of Rochester
 - MS, Pharmacology, University of Rochester
 - BS, Neuroscience, University of Maryland, Baltimore County 
+</p>
 </div><!-- /.tile2 -->
 
 <br>
@@ -29,11 +31,13 @@ Clint L. Miller - Principal Investigator
 </div><!-- /.tile2 -->
 
 <div class="tile2">
+<p class="post-excerpt"> 
 Vivek Nanda - Postdoctoral Fellow
 
 - PhD, Pharmacology, University of Rochester
 - MS, Pharmacology, University of Rochester
 - BS, Bioinformatics, Rochester Institute of Technology
+</p>
 </div><!-- /.tile2 -->
 
 </div><!-- /.tiles2 -->
