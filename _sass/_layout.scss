@@ -71,7 +71,7 @@
 			}
 			&:after {
 				width: 0;
-				background: #B8860B;
+				background: $black;
 			}
 			&:active:after,
 			&:hover:after {
@@ -128,7 +128,7 @@
 
 #page-wrapper {
 	padding: 0 $gutter; // add white space for smaller screens
-  @include size(100% 100%);
+	@include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
 	@include transform(translate(0,0));
@@ -181,7 +181,7 @@
 			}
 			.page-meta {
 				p{
-					@include font-size(12,no);
+					@include font-size(14,no);
 					font-family: $alt-font;
 					color: lighten($black,60);
 				}
@@ -237,9 +237,9 @@
 		background-size: cover;
 	}
 }
-.page-lead-content { 
+.page-lead-content {
 	padding: 1em;
-  @include media($medium) {
+	@include media($medium) {
 		padding: 2em;
 	}
 	@include media($large) {
@@ -263,10 +263,6 @@
 			@include font-size(32);
 		}
 	}
-}
-// make rounded shape of photos
-.img-circle {
-    border-radius: 50%;
 }
 // page header
 .page-feature {
@@ -341,7 +337,6 @@
 	@include outer-container;
 	margin-top: (3 * (0px + $doc-line-height));
 	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
-	padding-bottom: $gutter;
 	font-family: $alt-font;
   /* Copyright text */
 	.copyright {
