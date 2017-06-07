@@ -5,7 +5,9 @@ layout: default
 
 #### Group Members
 
-<img align ="left" src="http://clintmil.github.io/millerlab/images/clintphoto.jpg" alt="Clint" width="250" height="250" style="padding-right:50px">
+![clintphoto](/images/clintphoto.jpg){:class="img-responsive"} 
+![clintphoto](/images/clintphoto.jpg){:height="50%" width="50%"}
+![clintphoto](/images/clintphoto.jpg){:height="250px" width="250px"}
 
 Clint L. Miller - Principal Investigator
 
