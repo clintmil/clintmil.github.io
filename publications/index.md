@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: artlcle
 title: publications 
 permalink: /publications/
 ---
@@ -62,7 +62,7 @@ Yan C, Miller CL, Abe J. [Regulation of phosphodiesterase 3 and inducible cAMP e
 † corresponding author.
 ‡ manuscript received editorial.
 
-**See complete list of publications on [Pubmed][27] or [Google Scholar][28].**
+See complete list of publications on [Pubmed][27] or [Google Scholar][28].
 
 [1]: http://www.basictranslational.onlinejacc.org/content/1/7/680
 [3]: http://link.springer.com/article/10.1007%2Fs11886-016-0777-y
