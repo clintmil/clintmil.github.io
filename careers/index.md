@@ -1,3 +1,7 @@
+---
+layout: artlcle
+---
+
 #### Available Positions
 
 **Postdoctoral Fellow – Functional Genomics** 
