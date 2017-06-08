@@ -2,13 +2,10 @@
 title: 
 layout: article
 ---
-
 #### Group Members
-
 <div class="tiles2">
 
 <div class="tile">
-
 <img src="https://clintmil.github.io/millerlab/images/clintphoto.jpg" height= "250" width= "250">
 
 </div><!-- /.tile2 -->
@@ -16,12 +13,14 @@ layout: article
 <div class="tile">
 <p class="post-excerpt"> 
 Clint L. Miller - Principal Investigator
-
-- Postdoc, Human Genetics, Stanford University 
-- PhD, Pharmacology, University of Rochester
-- MS, Pharmacology, University of Rochester
-- BS, Neuroscience, University of Maryland, Baltimore County 
 </p>
+<ul type="square">
+<li> Postdoc, Human Genetics, Stanford University </li> 
+<li> PhD, Pharmacology, University of Rochester </li>
+<li> MS, Pharmacology, University of Rochester </li>
+<li> BS, Neuroscience, University of Maryland, Baltimore County </li> 
+</ul>
+
 </div><!-- /.tile2 -->
 
 <br>
@@ -33,11 +32,12 @@ Clint L. Miller - Principal Investigator
 <div class="tile">
 <p class="post-excerpt"> 
 Vivek Nanda - Postdoctoral Fellow
-
-- PhD, Pharmacology, University of Rochester
-- MS, Pharmacology, University of Rochester
-- BS, Bioinformatics, Rochester Institute of Technology
 </p>
+<ul type="square">
+<li> PhD, Pharmacology, University of Rochester </li> 
+<li> MS, Pharmacology, University of Rochester </li> 
+<li> BS, Bioinformatics, Rochester Institute of Technology </li> 
+</ul>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles2 -->
