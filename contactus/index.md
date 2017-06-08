@@ -1,6 +1,6 @@
 ---
 title:
-layout: default
+layout: article
 ---
 
 <img src = "https://clintmil.github.io/millerlab/images/factsfigures2.jpg">
