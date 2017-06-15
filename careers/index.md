@@ -8,10 +8,10 @@ layout: artlcle
 
 We are seeking a highly motivated and energetic postdoctoral fellow with a background in genetics, molecular biology or similar field to investigate the genetic basis of coronary artery disease. This project will focus on investigating the causal mechanisms of novel loci associated with CAD and will involve the generation of genomic datasets in normal and diseased environments. The primary goals of this project are: 1) to elucidate the role of genetic variation on transcription, TF occupancy and chromatin structure, 2) to perform targeted and multiplexed perturbation assays in vitro using CRISPR/Cas9 at candidate loci, 3) to validate candidate drugs or biomarkers in phenotypic screens for cardiovascular diseases. 
 
-The candidate will have access to state-of-the art facilities and will be exposed to a stimulating and multi-disciplinary environment in the Center for Public Health Genomics, led by Drs. Stephen Rich and Charles Farber. This work will involve close collaborations with Drs. Mete Civelek, Chongzhi Zang and others. The candidate will also benefit from strong collaborations with Dr. Gary Owens and other members of the Robert M. Berne Cardiovascular Research Center.
+The candidate will have access to state-of-the-art facilities and will be exposed to a stimulating environment in the Center for Public Health Genomics (CPHG). This work will involve close collaborations with members of the CPHG and the newly formed Data Science Institute. The candidate will also benefit from strong collaborations with faculty members of the Robert M. Berne Cardiovascular Research Center and in the Departments of Biomedical Engineering and Biochemistry and Molecular Genetics.
 
 __Qualifications:__
-* PhD or MD/PhD in quantitative life sciences
+* PhD or MD/PhD in quantitative life sciences 
 *	Deep knowledge in human genetics, molecular biology, or similar field
 *	Excellent written and oral communication skills
 *	Self-starter, independent, and organized
@@ -32,15 +32,15 @@ __________
 
 **Postdoctoral Fellow – Computational Genomics**
 
-We are seeking a highly motivated and talented postdoctoral fellow with a background in bioinformatics or computer science to investigate the genetic basis of coronary artery disease (and other related diseases). This project will focus on the integration of large-scale human genetic and multi-omic datasets (e.g. bulk and single-cell RNA-seq, ATAC-seq) from normal and diseased environments. Ultimately the goals of this work are: 1) to elucidate novel disease associated loci and regulatory profiles, 2) to map context-specific gene-gene and gene-environment interactions, 3) to construct and test causal regulatory networks. The candidate will also be expected to work with collaborators to assist in building bioinformatics software and infrastructure around these genomic datasets.
+We are seeking a highly motivated and talented postdoctoral fellow with a background in bioinformatics or computer science to investigate the genetic basis of coronary artery disease (and other related diseases). This project will focus on the integration of large-scale human genetic and multi-omic datasets (e.g. bulk and single-cell RNA-seq, ATAC-seq) from normal and diseased environments. Ultimately the goals of this work are: 1) to elucidate novel disease associated loci and regulatory profiles, 2) to map context-specific gene-gene and gene-environment interactions, and 3) to construct and test causal regulatory networks. The candidate will also be encouraged to work with collaborators to assist in building bioinformatics software and infrastructure around these genomic datasets.
 
-The candidate will have access to a broad range of large-scale genetic and genomic datasets and will be exposed to a stimulating and multi-disciplinary environment in the Center for Public Health Genomics, led by Drs. Stephen Rich and Charles Farber. This work will involve close collaborations with Drs. Mete Civelek, Chongzhi Zang and others. The candidate will also benefit from strong collaborations with Dr. Gary Owens and other members of the Robert M. Berne Cardiovascular Research Center. 
+The candidate will have access to a broad range of large-scale genetic and genomic datasets and will be exposed to a stimulating and multi-disciplinary environment in the Center for Public Health Genomics (CPHG). This work will involve close collaborations with members of the CPHG and the newly formed Data Science Institute. The candidate will also benefit from strong collaborations with faculty members of the Robert M. Berne Cardiovascular Research Center and in the Departments of Biomedical Engineering and Biochemistry and Molecular Genetics.
 
 __Qualifications:__
 * PhD in bioinformatics, computer science, genetics or related field
 *	Deep knowledge in a quantitative field involving computational analysis 
 *	Knowledge of human genetics, statistical genetics and molecular biology
-*	Proficiency in scripting (e.g. python, perl, bash) and statistical analysis (e.g. R)
+*	Proficiency in scripting (e.g. python, C/C++, Bash) and data analysis (e.g. R)
 *	Excellent written and verbal communication skills 
 
 __Additional qualifications (not required):__
