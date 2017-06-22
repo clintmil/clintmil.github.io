@@ -1,7 +1,7 @@
 ---
 layout: artlcle
-title: publications 
-permalink: /publications/
+title: 
+permalink: 
 ---
 
 #### Selected Publications 
