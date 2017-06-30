@@ -1,6 +1,6 @@
 ---
-layout: artlcle
 title: 
+layout: article
 permalink: 
 ---
 
