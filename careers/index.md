@@ -1,5 +1,6 @@
 ---
-layout: artlcle
+title:
+layout: article
 ---
 
 #### Available Positions
