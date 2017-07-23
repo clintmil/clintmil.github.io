@@ -21,7 +21,7 @@ One of the enduring challenges of the post-GWAS and sequencing era is interpreti
 
 Another poorly addressed issue in the field is the role of gene-gene (GxG) interactions (e.g. epistasis) and gene-environment (GxE) interactions in driving heritable risk for complex diseases. Our previous work at the TCF21 locus identified multiple physical interactions with other coronary artery disease (CAD) loci. To better understand biological epistasis in CAD, we are employing genome-wide screens for other disease-associated “master regulator” transcription factors in both normal and diseased states. These approaches will reveal insights into the combinatorial effects of genetic variation on the vascular wall interactome. We have also recently identified specific environmental factors interacting with smooth muscle CAD genes (e.g. TCF21) related to pro-inflammatory signaling. Both experimental and computational approaches will be employed to further explore these potential interactions across different individuals and disease states.
  
-<img src="https://clintmil.github.io/millerlab/images/RCA_atherosclerosis.jpg" height= "250" width= "300">
+<img src="https://clintmil.github.io/millerlab/images/1024px-RCA_atherosclerosis_new.jpeg" height= "250" width= "300">
 
 <span style="color:#B8860B"> 3. Investigate mural cell function and drug repositioning strategies for cardiovascular disease. </span>
 
