@@ -34,7 +34,7 @@ Sazonova OV\*, Zhao Y\*, Nürnberg ST\*, Miller CL, Pjanic M, Kundaje AB, Bejera
 
 Miller CL†, Haas U, Diaz R, Leeper NJ, Kundu RK, Patolla B, Assimes TL, Kaiser FJ, Ljubica P, Hedin U, Maegdefessel L, Schunkert H, Erdmann J, Quertermous T†, Sczakiel G†. [Coronary heart disease-associated variation in TCF21 disrupts a miR-224 binding site and miRNA-mediated regulation.][12] PLOS Genetics. 2014 Mar 27; 10(3):e1004263.
 
-Miller CL, Assimes TL, Montgomery SB, Quertermous T. [Dissecting the causal genetic mechanisms of coronary heart disease. Current Atherosclerosis Reports.][13] 2014 May;16(5):406.
+Miller CL, Assimes TL, Montgomery SB, Quertermous T. [Dissecting the causal genetic mechanisms of coronary heart disease.][13] Current Atherosclerosis Reports. 2014 May;16(5):406.
 
 Kojima Y, Downing KP, Kundu RK, Miller CL, Dewey F, Lancero H, Raaz U, Perisic L, Hedin U, Schadt EE, Maegdefessel L, Quertermous T, Leeper NJ. [CDKN2B regulates efferocytosis and atherosclerosis.][14] Journal of Clinical Investigation. 2014 Mar 3;124(3):1083-97. 
 
