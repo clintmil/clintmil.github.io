@@ -20,6 +20,11 @@
   excerpt: Check out our previous work.  
   image: publications_small.jpg
 
+- title: News
+  url: /news/
+  excerpt: Read our latest news.  
+  image: 
+  
 - title: Careers
   url: /careers/
   excerpt: Come join us!
